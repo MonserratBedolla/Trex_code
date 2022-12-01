@@ -64,6 +64,7 @@ function setup(){
 function draw(){
   background(180)
 
+  ///********************************CAMBIAR LOS SPAWNS (OBSTACULOS Y NUBES) AL GAMESTATE === PLAY PARA EVITAR QUE SE SIGAN CREANDO OBJETOS*****************
   //Mostrar puntuación
   text("Puntuación: "+score,500,50)
 
